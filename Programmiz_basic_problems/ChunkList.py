@@ -13,7 +13,6 @@ for i in range(0, len(numbers), 4):
     # append the chunk variable to the chunks list
     chunks.append(chunk)
 
-
 # print the chunks list
 for chunk in chunks:
     print(chunk)
